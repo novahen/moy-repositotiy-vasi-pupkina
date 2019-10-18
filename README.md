@@ -2,3 +2,5 @@
 zdes ya budu hranit svoy chush
 
 zdes dolzhen bit' text but ya ne hochu ego pisat'
+
+Novoe izmenenie v etom file!
